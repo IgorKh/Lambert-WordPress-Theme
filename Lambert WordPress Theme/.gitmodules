@@ -1,0 +1,3 @@
+[submodule "KHT_BackEnd"]
+	path = KHT_BackEnd
+	url = https://khatybov@bitbucket.org/khatybov/backend.git
